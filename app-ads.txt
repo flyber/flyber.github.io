@@ -1,0 +1,10 @@
+# Meta Audience Network
+facebook.com, 2868786270177087, DIRECT, c3e20eee3f780d68
+
+# Unity Ads
+unityads.com, 7972487172492, DIRECT
+
+# IronSource / LevelPlay
+ironsrc.com, 616235, RESELLER
+
+#google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
