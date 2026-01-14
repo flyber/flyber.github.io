@@ -7,4 +7,4 @@ unityads.com, 7972487172492, DIRECT
 # IronSource / LevelPlay
 ironsrc.com, 616235, RESELLER
 
-#google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
+google.com, pub-5028128426044857, DIRECT, f08c47fec0942fa0
